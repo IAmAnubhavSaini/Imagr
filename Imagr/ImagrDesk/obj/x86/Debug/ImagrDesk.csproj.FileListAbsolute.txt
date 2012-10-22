@@ -1,0 +1,10 @@
+D:\Data\Projexts\2012\Imagr\ImagrDesk\bin\Debug\ImagrDesk.exe
+D:\Data\Projexts\2012\Imagr\ImagrDesk\bin\Debug\ImagrDesk.pdb
+D:\Data\Projexts\2012\Imagr\ImagrDesk\bin\Debug\ImagrLib.dll
+D:\Data\Projexts\2012\Imagr\ImagrDesk\bin\Debug\ImagrLib.pdb
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\ImagrDesk.csprojResolveAssemblyReference.cache
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\Anubhav.ImagrDesk.Home.resources
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\ImagrDesk.Properties.Resources.resources
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\ImagrDesk.csproj.GenerateResource.Cache
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\ImagrDesk.exe
+D:\Data\Projexts\2012\Imagr\ImagrDesk\obj\x86\Debug\ImagrDesk.pdb

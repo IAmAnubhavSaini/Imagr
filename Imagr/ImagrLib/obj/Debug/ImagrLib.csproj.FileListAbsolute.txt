@@ -1,0 +1,4 @@
+D:\Data\Projexts\2012\Imagr\ImagrLib\bin\Debug\ImagrLib.dll
+D:\Data\Projexts\2012\Imagr\ImagrLib\bin\Debug\ImagrLib.pdb
+D:\Data\Projexts\2012\Imagr\ImagrLib\obj\Debug\ImagrLib.dll
+D:\Data\Projexts\2012\Imagr\ImagrLib\obj\Debug\ImagrLib.pdb
